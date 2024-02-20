@@ -13,7 +13,7 @@ RFM helps divide customers into various segments to identify those more likely t
 # Objective 
   To perform RFM segmentation and compare the results with those obtained using the K-means clustering algorithm on the same data.
 
-
+# Dataset
 This dataset contains 8 variables that correspond to:
 
 InvoiceNo : Invoice number. Nominal, a 6-digit integral number uniquely assigned to each transaction. If this code starts with letter 'c', it indicates a cancellation.
